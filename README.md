@@ -1,6 +1,7 @@
-# VF Color Palette
+> [!NOTE]
+> This add-on for earlier Blender versions has been migrated into the [Production Kit extension](https://github.com/jeinselen/Blender-ProductionKit) for Blender 4.2+
 
-This add-on was designed for Blender version 2.8-4.1 (though not all previous versions may be fully supported). For Blender 4.2 and onwards, [please see the new Production Kit extension](https://github.com/jeinselen/Blender-ProductionKit).
+# VF Color Palette
 
 Blender add-on to create and store colors in plain text file that's easily shared across projects and systems.
 
